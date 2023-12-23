@@ -152,6 +152,7 @@ ol {
 
 .button:hover {
   text-decoration: underline;
+  cursor: pointer;
 }
 
 .button:focus {
@@ -181,6 +182,7 @@ ol {
 .search-form__label:hover .search-form__label-text {
   text-decoration: underline;
   text-underline-offset: 3px;
+  cursor: pointer;
 }
 
 .search-form__pseudo-checkbox {
@@ -288,6 +290,7 @@ ol {
   height: 103px;
   object-fit: cover;
   object-position: center;
+  width: 194px;
 }
 
 .content__video-card-description {
